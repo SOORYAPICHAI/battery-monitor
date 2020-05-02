@@ -1,0 +1,30 @@
+.header{
+    display: flex;
+    justify-content: center;
+}
+.title{
+    font-weight: bold;
+    font-size: 20px;
+    text-align: left;
+}
+.body{
+    display: flex;
+    justify-content: center;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  /* tr:nth-child(even) {
+    background-color: #dddddd;
+  } */
